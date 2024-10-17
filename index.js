@@ -7,4 +7,4 @@
 //git config --global user.email "you@example.com"     --to override: write this again
 //git config --global user.name "Your Name"
 //git remote -v- view the remote origin
-happy 
+//git remote add or origin link
